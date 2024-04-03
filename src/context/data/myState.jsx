@@ -51,7 +51,7 @@ function MyState(props) {
       day: "2-digit",
       year: "numeric",
     }),
-    inventory_quantity: 25,
+  
     selling_strategy: 0,
     start_number: 0,
   };
